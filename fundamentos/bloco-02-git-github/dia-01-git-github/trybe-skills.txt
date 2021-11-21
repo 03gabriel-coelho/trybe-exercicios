@@ -1,15 +1,23 @@
  que eu vou aprender na Trybe:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Unix
 - Bash
 - Git
 - HTML
 - CSS
 =======
+=======
+>>>>>>> d1211c194917ce9f43fb7a905af2d52b55c73a61
 -Unix
 -Bash
 -Git
 -JavaScript
 -Phyton
+<<<<<<< HEAD
 >>>>>>> trybe-skills-updates
+=======
+-HTML
+-CSS
+>>>>>>> d1211c194917ce9f43fb7a905af2d52b55c73a61
