@@ -1,7 +1,15 @@
  que eu vou aprender na Trybe:
 
+<<<<<<< HEAD
 - Unix
 - Bash
 - Git
 - HTML
 - CSS
+=======
+-Unix
+-Bash
+-Git
+-JavaScript
+-Phyton
+>>>>>>> trybe-skills-updates
