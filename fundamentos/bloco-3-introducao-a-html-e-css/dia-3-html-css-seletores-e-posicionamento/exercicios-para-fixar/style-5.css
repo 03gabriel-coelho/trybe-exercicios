@@ -1,0 +1,59 @@
+ol {
+    background-color: yellow;
+}
+
+li.par {
+    color: green;
+}
+
+li.impar {
+    text-transform: uppercase;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+h1, h2, h3 em {
+    font-size: 40px;
+    border: 1px solid black;
+    width:max-content
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+li.azul {
+    color:blue;
+}
+.rosa {
+    background-color:pink;
+}
+
+ul.aliados li:hover {
+    font-weight: bold;
+}
+
+li.Stack:hover {
+    color: orange;
+}
+
+li.W3:hover {
+    color:green;
+}
+
+li.MDN:hover {
+    color:black;
+}
+
+li.Dev:hover {
+    color:yellow;
+}
+li.Trybe:hover {
+    color:green;
+}
