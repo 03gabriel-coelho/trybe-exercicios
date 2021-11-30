@@ -1,4 +1,4 @@
-const salario = 3000;
+const salario = 525;
 let salarioINSS;
 let salarioIR;
 
